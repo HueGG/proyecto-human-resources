@@ -1,0 +1,21 @@
+
+#bodyReloj{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(255, 255, 255);
+   
+}
+
+#contenedor_reloj{
+    text-align: center;
+}
+#contenedor_reloj h1_texto{
+    font-size: 6rem;
+    font-weight: 400;
+}
+#contenedor_reloj p_texto{
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
